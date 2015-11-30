@@ -1,2 +1,2 @@
 # StarLauncher
-A Android desktop in my idea.
+A Android launcher in my idea.
